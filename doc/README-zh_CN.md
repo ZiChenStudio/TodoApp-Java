@@ -1,5 +1,7 @@
 # Java Todo Reminder App
 
+[English](../README.md)|[简体中文](README-zh_CN.md)
+
 Java Todo Reminder App 是一个轻量且用户友好的任务管理应用，旨在帮助用户组织日常任务并及时接收提醒。这款简单而实用的待办事项应用允许用户添加、更新和删除任务，并在任务到期时接收系统通知。
 
 ## 主要特点
