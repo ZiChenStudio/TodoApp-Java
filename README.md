@@ -1,6 +1,6 @@
 # Java Todo Reminder App
 
-[English](README.md)
+[English](README.md)|[简体中文](doc/README-zh_CN.md)
 
 The Java Todo Reminder App is a lightweight and user-friendly task management application, designed to help users organize their daily tasks and receive timely reminders. This simple yet effective todo list app allows users to add, update, and delete tasks, and receive system notifications when tasks are due.
 
